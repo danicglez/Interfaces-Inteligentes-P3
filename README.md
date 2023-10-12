@@ -11,20 +11,20 @@ Repositorio con los scripts que resuelven los ejercicios propuestos de la tercer
 
 ***3. Ejercicio 3:***
 ![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3.gif)
-    ***a:***
-    ![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_a.gif)
+***· a:***
+![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_a.gif)
     
-    ***b:***
-    ![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_b.gif)
+***· b:***
+![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_b.gif)
     
-    ***c:***
-    ![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_c.gif)
+***· c:***
+![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_c.gif)
     
-    ***d:***
-    ![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_d.gif)
+***· d:***
+![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_d.gif)
     
-    ***e:***
-    ![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_e.gif)
+***· e:***
+![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej3_e.gif)
 
 ***4. Ejercicio 4:***
 ![](https://github.com/danicglez/Interfaces-Inteligentes-P3/blob/main/GIFs/ej4.gif)
